@@ -3,8 +3,8 @@
 A repo providing a structured path, blending theoretical knowledge with practical experience through projects and exercises for computer vision
 
 - Phase 1: Prerequisites
-  * Programming Skills
-  * Mathematics for Computer Vision
+  * [Programming Skills](phase%201/Programming%20Skills/README.md)
+  * [Mathematics for Computer Vision](phase%201/Mathematics%20for%20Computer%20Vision/README.md)
 - Phase 2: Core Concepts of Computer Vision
   * Basic Image Processing
   * Feature Detection and Matching
@@ -20,4 +20,3 @@ A repo providing a structured path, blending theoretical knowledge with practica
   * 3D Computer Vision
   * Edge Computing and Deployment
   * Research and Advanced Topics
-  
