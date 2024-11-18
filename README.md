@@ -1,6 +1,6 @@
 # Computer Vision Foundations
 
-<img src="https://ibb.co/HxL38z5">
+<img src="https://i.ibb.co/F0kCTwR/a-photo-of-a-table-with-various-real-world-objects-B8zhp-WRLQ-Cwgo-TKU1ac0-A-VI37n-BOQT1-W-68-AKYi2.jpg">
 
 A repo providing a structured path, blending theoretical knowledge with practical experience through projects and exercises for computer vision
 
