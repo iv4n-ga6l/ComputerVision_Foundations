@@ -1,5 +1,7 @@
 # Computer Vision Foundations
 
+<img src="https://ibb.co/HxL38z5">
+
 A repo providing a structured path, blending theoretical knowledge with practical experience through projects and exercises for computer vision
 
 - Phase 1: Prerequisites
