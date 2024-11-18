@@ -8,9 +8,9 @@ A repo providing a structured path, blending theoretical knowledge with practica
   * [Programming Skills](phase%201/Programming%20Skills/README.md)
   * [Mathematics for Computer Vision](phase%201/Mathematics%20for%20Computer%20Vision/README.md)
 - Phase 2: Core Concepts of Computer Vision
-  * Basic Image Processing
-  * Feature Detection and Matching
-  * Object Detection and Tracking
+  * [Basic Image Processing](phase%202/Basic%20Image%20Processing/README.md)
+  * [Feature Detection and Matching](phase%202/Feature%20Detection%20and%20Matching/README.md)
+  * [Object Detection and Tracking](phase%202/Object%20Detection%20and%20Tracking/README.md)
 - Phase 3: Machine Learning in Computer Vision
   * Classical Machine Learning
   * Deep Learning Fundamentals
