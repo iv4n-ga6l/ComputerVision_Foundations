@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/F0kCTwR/a-photo-of-a-table-with-various-real-world-objects-B8zhp-WRLQ-Cwgo-TKU1ac0-A-VI37n-BOQT1-W-68-AKYi2.jpg">
 
-This repo provide a structured path, blending theoretical knowledge with practical experience through projects and exercises for computer vision
+This is a comprehensive roadmap to build strong foundation in programming, mathematics, deep learning, and hands-on experience with real-world projects to become a successful Computer Vision Engineer.
 
 - Phase 1: Prerequisites
   * [Programming Skills](phase%201/Programming%20Skills/README.md)
