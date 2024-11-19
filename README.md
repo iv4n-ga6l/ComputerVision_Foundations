@@ -12,8 +12,8 @@ This is a comprehensive roadmap to build strong foundation in programming, mathe
   * [Feature Detection and Matching](phase%202/Feature%20Detection%20and%20Matching/README.md)
   * [Object Detection and Tracking](phase%202/Object%20Detection%20and%20Tracking/README.md)
 - Phase 3: Machine Learning in Computer Vision
-  * Classical Machine Learning
-  * Deep Learning Fundamentals
+  * [Classical Machine Learning](phase%203/Classical%20Machine%20Learning/README.md)
+  * [Deep Learning Fundamentals](phase%203/Deep%20Learning%20Fundamentals/README.md)
 - Phase 4: Advanced Deep Learning for Computer Vision
   * Convolutional Neural Networks (CNNs)
   * Object Detection and Segmentation
