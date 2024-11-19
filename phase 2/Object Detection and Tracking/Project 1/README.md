@@ -1,4 +1,4 @@
-# Project 4
+# Project 1
 
 Implement a background subtraction technique to detect moving objects in a video.
 
