@@ -5,7 +5,7 @@ Regularization Techniques in Deep Learning
 Implement and compare various regularization techniques including dropout, 
 batch normalization, L1/L2 regularization, and early stopping to prevent overfitting.
 
-Author: Computer Vision Foundations
+
 """
 
 import numpy as np

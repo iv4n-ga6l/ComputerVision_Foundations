@@ -1,6 +1,6 @@
 """
 Model Optimization and Quantization
-Author: Computer Vision Foundations Project
+ Project
 Description: Comprehensive model optimization toolkit for edge deployment
 """
 

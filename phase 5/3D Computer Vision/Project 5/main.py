@@ -1,6 +1,6 @@
 """
 SLAM Implementation
-Author: Computer Vision Foundations Project
+ Project
 Description: Complete SLAM system with visual odometry, mapping, and loop closure
 """
 

@@ -12,7 +12,7 @@ Features:
 - Loss analysis and evaluation metrics
 - Sample generation and interpolation
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

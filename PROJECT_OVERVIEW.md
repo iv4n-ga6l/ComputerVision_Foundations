@@ -205,7 +205,6 @@ This is an educational project designed to be:
 ## 📞 Support and Community
 
 - **Issues**: Report bugs or suggest improvements via GitHub issues
-- **Discussions**: Join our community discussions for help and collaboration
 - **Updates**: Follow for regular updates and new project additions
 
 ---

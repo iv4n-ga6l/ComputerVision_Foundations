@@ -12,7 +12,7 @@ Features:
 - Pose tracking and temporal consistency
 - Comprehensive evaluation tools
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import numpy as np

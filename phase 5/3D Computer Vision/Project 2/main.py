@@ -13,7 +13,7 @@ Key Features:
 - Mesh generation and texturing
 - Interactive 3D visualization
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import numpy as np

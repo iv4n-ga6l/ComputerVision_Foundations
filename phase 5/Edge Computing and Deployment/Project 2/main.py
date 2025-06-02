@@ -1,6 +1,6 @@
 """
 Mobile App with Computer Vision
-Author: Computer Vision Foundations Project
+ Project
 Description: Mobile deployment toolkit for computer vision models
 """
 

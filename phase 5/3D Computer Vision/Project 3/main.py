@@ -13,7 +13,7 @@ Features:
 - Surface reconstruction and mesh generation
 - Visualization and analysis tools
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import numpy as np

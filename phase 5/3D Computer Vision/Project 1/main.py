@@ -12,7 +12,7 @@ Features:
 - Real-time stereo processing
 - Depth map visualization and analysis
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import cv2

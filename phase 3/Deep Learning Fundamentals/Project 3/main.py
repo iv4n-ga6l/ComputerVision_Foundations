@@ -5,7 +5,7 @@ Optimization Algorithms Comparison
 Compare different optimization algorithms for neural network training, including
 SGD, Adam, RMSprop, and custom implementations with various learning strategies.
 
-Author: Computer Vision Foundations
+
 """
 
 import numpy as np

@@ -5,7 +5,7 @@ Image Classification with Multi-Layer Perceptron (MLP)
 Train a multi-layer perceptron on CIFAR-10 dataset for image classification.
 Demonstrates practical application of neural networks to computer vision tasks.
 
-Author: Computer Vision Foundations
+
 """
 
 import numpy as np

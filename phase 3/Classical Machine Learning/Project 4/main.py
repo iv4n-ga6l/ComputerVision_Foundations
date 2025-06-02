@@ -8,7 +8,7 @@ This project implements image segmentation using K-Means clustering with:
 - Optimal k selection using elbow method
 - Interactive segmentation interface
 
-Author: Computer Vision Foundations
+
 """
 
 import cv2

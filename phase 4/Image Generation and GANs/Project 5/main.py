@@ -13,7 +13,7 @@ Key Features:
 - Latent space interpolation and visualization
 - Comprehensive evaluation metrics
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

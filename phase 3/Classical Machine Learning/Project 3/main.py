@@ -8,7 +8,7 @@ This project implements the classic Eigenfaces method for face recognition using
 - Haar cascade for face detection
 - Real-time recognition capabilities
 
-Author: Computer Vision Foundations
+
 """
 
 import cv2

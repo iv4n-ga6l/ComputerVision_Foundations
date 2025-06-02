@@ -1,6 +1,6 @@
 """
 Edge Device Deployment
-Author: Computer Vision Foundations Project
+ Project
 Description: Deploy computer vision models to edge computing devices
 """
 

@@ -13,7 +13,7 @@ Key Features:
 - Comprehensive loss functions
 - Interactive parameter tuning
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

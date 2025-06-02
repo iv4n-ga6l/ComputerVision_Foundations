@@ -13,7 +13,7 @@ Features:
 - Data augmentation for segmentation
 - Model visualization and interpretation
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

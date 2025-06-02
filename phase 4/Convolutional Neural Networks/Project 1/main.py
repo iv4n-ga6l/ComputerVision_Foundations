@@ -5,7 +5,7 @@ Convolutional Neural Network from Scratch
 Implementation of a complete CNN without using high-level frameworks, including
 convolution layers, pooling layers, and backpropagation through all components.
 
-Author: Computer Vision Foundations
+
 """
 
 import numpy as np

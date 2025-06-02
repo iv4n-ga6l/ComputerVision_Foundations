@@ -5,7 +5,7 @@ Neural Network from Scratch
 Complete implementation of a multi-layer perceptron without using deep learning frameworks.
 Includes forward propagation, backpropagation, and various optimization techniques.
 
-Author: Computer Vision Foundations
+
 """
 
 import numpy as np

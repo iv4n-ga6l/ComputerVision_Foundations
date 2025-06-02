@@ -13,7 +13,7 @@ Features:
 - Performance optimization
 - Visualization tools
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

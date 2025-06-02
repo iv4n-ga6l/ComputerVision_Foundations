@@ -8,7 +8,7 @@ This project implements texture classification using Random Forest with:
 - Ensemble learning with Random Forest
 - Real-time texture analysis
 
-Author: Computer Vision Foundations
+
 """
 
 import cv2

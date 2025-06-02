@@ -13,7 +13,7 @@ Key Features:
 - Self-attention mechanisms
 - Comprehensive evaluation metrics
 
-Author: Computer Vision Foundations Project
+ Project
 """
 
 import torch

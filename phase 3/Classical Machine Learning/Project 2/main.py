@@ -7,7 +7,7 @@ This project implements a complete pipeline for image classification using:
 - SVM (Support Vector Machine) classification
 - Cross-validation and model evaluation
 
-Author: Computer Vision Foundations
+
 """
 
 import cv2
