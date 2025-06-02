@@ -1,6 +1,6 @@
 # Computer Vision Foundations
 
-![Computer Vision](https://img.shields.io/badge/PowerShell-Terminal-012456) ![Roadmap](https://img.shields.io/badge/InDesign-Print-magenta)
+![Computer Vision](https://img.shields.io/badge/computer_vision-cyan) ![Roadmap](https://img.shields.io/badge/roadmap-8A2BE2)
 
 <img src="https://i.ibb.co/F0kCTwR/a-photo-of-a-table-with-various-real-world-objects-B8zhp-WRLQ-Cwgo-TKU1ac0-A-VI37n-BOQT1-W-68-AKYi2.jpg">
 
