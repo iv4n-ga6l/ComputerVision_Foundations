@@ -1,0 +1,71 @@
+# Real-time Video Processing Pipeline Requirements
+
+# Core dependencies
+opencv-python==4.8.1.78
+numpy==1.24.3
+psutil==5.9.5
+
+# Deep learning frameworks (choose based on your preference)
+torch==2.0.1
+torchvision==0.15.2
+# OR
+# tensorflow==2.13.0
+
+# Computer vision and AI
+mediapipe==0.10.3
+
+# Threading and async processing
+threading-utils==0.3.0
+
+# Performance monitoring
+py-cpuinfo==9.0.0
+GPUtil==1.4.0
+
+# Video processing and codecs
+imageio==2.31.1
+imageio-ffmpeg==0.4.8
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0.1
+argparse==1.4.0
+
+# Optional: Hardware acceleration
+# For NVIDIA GPU support
+# tensorrt==8.6.1
+# For Intel OpenVINO
+# openvino==2023.0.1
+# For Google Coral TPU
+# pycoral==2.0.0
+
+# Development and testing
+pytest==7.4.0
+pytest-benchmark==4.0.0
+
+# Logging and configuration
+colorlog==6.7.0
+configparser==5.3.0
+
+# File I/O and data handling
+h5py==3.9.0
+pillow==10.0.0
+
+# Network streaming (optional)
+# flask==2.3.2
+# socketio==0.2.1
+
+# Mobile deployment (optional)
+# kivy==2.2.0  # For mobile apps
+# pygame==2.5.0  # For simple UI
+
+# Edge device specific (uncomment as needed)
+# For Raspberry Pi
+# RPi.GPIO==0.7.1
+# picamera==1.13
+
+# For NVIDIA Jetson
+# jetson-gpio==2.1.6
+
+# Performance profiling
+memory-profiler==0.61.0
+line-profiler==4.1.1

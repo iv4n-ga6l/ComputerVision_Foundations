@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+open3d>=0.16.0
+opencv-python>=4.6.0
+Pillow>=9.0.0
+tqdm>=4.64.0
+plotly>=5.11.0
+trimesh>=3.15.0
+plyfile>=0.7.4
